@@ -1,0 +1,4 @@
+3)Não é necessário....
+É ultilizado em algumas situações:
+Quando há, em um método, uma variavel com o mesmo nome de um atributo. Nesse caso se você quiser acessar o atributo deve ultilizar o this
+Aumentar a legibilidade do seu código. Deixando claro que você está acessando um atributo e não uma variável local

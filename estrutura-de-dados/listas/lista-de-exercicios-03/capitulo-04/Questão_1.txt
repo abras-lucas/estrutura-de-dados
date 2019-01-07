@@ -1,0 +1,4 @@
+1)Algumas regras:
+A classe publica tem que ser o nome do arquivo, por exemplo, quando declaramos uma classe chamada public PeterPan o nome do arquivo tem que ser chamada de PeterPan.java
+Se a classe pertence a um pacote, a declaração do pacote tem que ser feita na primeira linha do programa antes de qualquer importação ou declaração de classe.
+Se houver declaração de importação ela deve ser feita entre a declaração de pacote (se houver alguma), e a declaração de classe. Isto é, se não houver declaração de pacotes as linhas de importação devem ser escritas dentro da primeira linha do programa.
