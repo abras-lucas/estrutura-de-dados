@@ -1,0 +1,3 @@
+2)geralmente são classes utilitárias, como por exemplo a classe Math, de java.lang.
+Se você ver a implementação desta classe verá que todos atributos e métodos 
+são estáticos, e é por isso que seu construtor é privado

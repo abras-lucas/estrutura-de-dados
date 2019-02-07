@@ -1,0 +1,4 @@
+1)As vantagens são o padrão pré-estabelecido, no qual o programador já sabe
+o que deve fazer e como fazer. As desvantagens são o fato de que ele terá que
+aprender o UML da empresa, do começo, não ficando livre para programar como
+já fazia antes (o que pode atrasar o processo)

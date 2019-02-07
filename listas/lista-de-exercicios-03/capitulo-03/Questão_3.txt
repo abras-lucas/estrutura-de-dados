@@ -1,0 +1,2 @@
+3)No primeiro teste o resultado foi Exception in thread "main" java.lang.ArithmeticException: / by zero.
+No segundo não ocorreu erro e o valor da variável foi impresso como "Infinity".

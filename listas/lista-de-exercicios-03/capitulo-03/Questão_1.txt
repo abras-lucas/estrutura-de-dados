@@ -1,0 +1,3 @@
+1)O do...while é mais interessante de ser usado quando se quer executar o
+laço de repetição pelo menos uma vez. Já o switch, faz-se interessante quando
+há a necessidade de oferecer múltiplas escolhas ao usuário.

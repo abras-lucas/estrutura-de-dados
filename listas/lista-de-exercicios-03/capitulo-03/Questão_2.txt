@@ -1,0 +1,11 @@
+2)São loops com um label (rotulo), para que possam ser identificados, seria como dar nome a um loop, é usado principalmente em loops aninhados para que você possa usar um break, continue, etc, dentro de um loop interno e afetar um loop externo, ex.:
+
+primeiroloop:
+for(int i=0;i<10;i++){
+   segundoloop:
+   for(int j=0;j<10;j++){
+      if(alguma_condicao){
+         break primeiroloop;
+      }
+   }
+}

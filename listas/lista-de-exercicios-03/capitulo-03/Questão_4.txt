@@ -1,0 +1,13 @@
+4)a) Todo tipo pode ser moldado para um superior a ele, exceto float --> long, pois
+possuem características diferentes.
+
+b) Nenhum tipo pode ser convertido para outro com tamanho inferior a ele.
+O java faz isso como medida de segurança para que não haja risco de
+perda de precisão do valor. Você entederá isso lá embaixo na prática em um exemplo.
+
+c) Um tipo pode ser moldado para um outro de mesmo tamanho(bits),
+quando possuirem características semelhantes.
+Os tipos primitivos de mesmo tamanho são: 
+char e short ( 8 bits )
+int e float ( 32 bits )
+double e long ( 64 bits )

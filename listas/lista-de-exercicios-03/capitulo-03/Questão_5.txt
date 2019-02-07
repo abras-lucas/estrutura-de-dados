@@ -1,0 +1,4 @@
+5)--i, irá decrementar a váriavel antes de qualquer outra operação
+i--, irá decrementar a váriavel depois de qualquer outra operação
+i += x, equivale à i=i+x
+i -= x, equivale à i=i-x
