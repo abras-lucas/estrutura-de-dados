@@ -1,29 +1,21 @@
-package br.edu.ifce.estruturas.lista;
+class Celula{
 
-public class Celula {
-
-	private Celula proxima;
-	
 	private Object elemento;
-	
-	public Celula(Celula proxima, Object elemento) {
-		this.proxima = proxima;
+	private Celula proximo; 
+
+	public void setElemento(Object elemento){
 		this.elemento = elemento;
 	}
-	
-	public Celula(Object elemento) {
-		this.elemento = elemento;
+
+	public Object getElemento(){
+		return this.elemento;
 	}
-	
-	public void setProxima(Celula proxima) {
-		this.proxima = proxima;
+
+	public void setProximo(Celula proximo){
+		this.proximo = proximo;
 	}
-	
-	public Celula getProxima() {
-		return proxima;
-	}
-	
-	public Object getElemento() {
-		return elemento;
+
+	public Celula getProximo(){
+		return this.proximo;
 	}
 }
